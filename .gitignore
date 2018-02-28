@@ -1,3 +1,10 @@
+*.qbs
+*.qbs.user
+*.xcodeproj
+*.plist
+*.xcconfig
+Makefile
+config.make
 *.depend
 *.layout
 *.mode*v3
